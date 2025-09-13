@@ -2,33 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Computer Science PhD Student for the School of Science and Engineering at Tulane University under the supervision of Prof. Nicholas Mattei and a Computer Scientist at the U.S. Naval Research Laboratory under the mentorship of Dr. Jaelle Scheuerman. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interest is in Human AI Interaction. I explore the unique challenges that arise when a solution to a problem cannot be fully automated and a user is required to collaborate with some form of automation to achieve a common goal. I aim to build more effective autonomous assistants that focus on enhancing user understanding, reducing cognitive load, and promoting more rational decision-making processes. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have presented and published my work in multiple venues, such as, Advancing Artificial Intelligence through Theory of Mind (ToM4AI), Naval Application of Machine Learning (NAML), Louisiana Biomedical Research Network (LBRN), and more. 
+
+Prior to pursuing my PhD, I graduated with honors from Southeastern Louisiana University, earning a Bachelor of Science in Computer Science and a minor in Mathematics. 
