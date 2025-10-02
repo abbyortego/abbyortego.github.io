@@ -27,6 +27,6 @@ I am a Computer Science PhD Student for the School of Science and Engineering at
 
 My research interest is in Human AI Interaction. I explore the unique challenges that arise when a solution to a problem cannot be fully automated and a user is required to collaborate with some form of automation to achieve a common goal. I aim to build more effective autonomous assistants that focus on enhancing user understanding, reducing cognitive load, and promoting more rational decision-making processes. 
 
-I have presented and published my work in multiple venues, such as, Advancing Artificial Intelligence through Theory of Mind (ToM4AI), Naval Application of Machine Learning (NAML), Louisiana Biomedical Research Network (LBRN), and more. 
+I have published my work in 2025 Advancing Artificial Intelligence through Theory of Mind (ToM4AI) and presented in multiple venues, such as, Naval Application of Machine Learning (NAML) and the Louisiana Biomedical Research Network (LBRN).
 
 Prior to pursuing my PhD, I graduated with honors from Southeastern Louisiana University, earning a Bachelor of Science in Computer Science and a minor in Mathematics. 
