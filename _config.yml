@@ -197,6 +197,7 @@ exclude:
   - _includes/repository/
   - _news/
   - _books/
+  - _projects/
 keep_files:
   - CNAME
   - .nojekyll
