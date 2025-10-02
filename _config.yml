@@ -197,7 +197,6 @@ exclude:
   - _includes/repository/
   - _news/
   - _books/
-  - assets/json/resume.json 
 keep_files:
   - CNAME
   - .nojekyll
