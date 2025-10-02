@@ -1,5 +1,6 @@
 {
-  "Abby Ortego": {
+  "basics": {
+    "name": "Albert Einstein",
     "label": "Scientist",
     "image": "",
     "email": "albert@einstein.de",
