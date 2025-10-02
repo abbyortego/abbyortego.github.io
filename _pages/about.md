@@ -23,7 +23,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a Computer Science PhD Student for the School of Science and Engineering at Tulane University [SSE at Tulane](https://sse.tulane.edu/) under the supervision of Prof. Nicholas Mattei [Prof. Nicholas Mattei](https://www.nickmattei.net/) and a Computer Scientist at the U.S. Naval Research Laboratory [NRL](https://www.nrl.navy.mil/) under the mentorship of Dr. Jaelle Scheuerman [Dr. Jaelle Scheuerman](https://drjaelle.com/). 
+I am a Computer Science PhD Student for the [School of Science and Engineering at Tulane University](https://sse.tulane.edu/) under the supervision of [Prof. Nicholas Mattei](https://www.nickmattei.net/) and a Computer Scientist at the [U.S. Naval Research Laboratory](https://www.nrl.navy.mil/) under the mentorship of [Dr. Jaelle Scheuerman](https://drjaelle.com/). 
 
 My research interest is in Human AI Interaction. I explore the unique challenges that arise when a solution to a problem cannot be fully automated and a user is required to collaborate with some form of automation to achieve a common goal. I aim to build more effective autonomous assistants that focus on enhancing user understanding, reducing cognitive load, and promoting more rational decision-making processes. 
 
